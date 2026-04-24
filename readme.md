@@ -17,7 +17,7 @@ INSTALLATION & COMPILATION
 ---
 
 **Requirements**
-- CMake ≥ 3.10
+- CMake ≥ 3.16
 - C/C++ compiler (GCC, Clang, MSVC, ...)
 - Qt5 or Qt6 (for GUI applications)
     - Required modules: Core, Gui, Widgets, SerialPort, Xml, Concurrent
